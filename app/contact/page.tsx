@@ -92,8 +92,8 @@ export default function ContactPage() {
                     </CardHeader>
                     <CardContent>
                       <p className="text-muted-foreground">
-                        <a href="tel:+11234567890" className="hover:text-primary">
-                          +1 (123) 456-7890
+                        <a href="tel:+234 911 839 1970" className="hover:text-primary">
+                          +234 911 839 1970
                         </a>
                       </p>
                     </CardContent>
@@ -109,7 +109,7 @@ export default function ContactPage() {
                     <CardContent>
                       <p className="text-muted-foreground">
                         <a href="mailto:info@agrixnetwork.com" className="hover:text-primary">
-                          info@agrixnetwork.com
+                          taiwiz@agrix.network
                         </a>
                       </p>
                     </CardContent>
